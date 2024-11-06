@@ -14,8 +14,8 @@ Ce programme en C permet de convertir un nombre d'une base donnée à une autre.
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone <lien_du_dépôt>
-   cd <nom_du_dossier>
+   git clone https://github.com/Klaynight-dev/convert_base2base_num
+   cd convert_base2base_num
    ```
 2. Compilez le programme :
    ```bash
